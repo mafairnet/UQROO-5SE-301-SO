@@ -1,0 +1,8 @@
+#/user/bin/bash
+cp Practica1 Practica2
+ls
+mkdirPrac2folder
+mv practica2 prac2folder/practica2movido
+cd prac2folder
+pwd
+ls

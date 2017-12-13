@@ -1,0 +1,4 @@
+#/bin/bash
+#este programa obtiene la fecha y la imprime
+FECHA=$(date)
+echo"la fecha del sitema $FECHA"
